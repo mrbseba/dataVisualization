@@ -6,8 +6,10 @@
 from sklearn import datasets
 iris = datasets.load_iris()
 digits = datasets.load_digits()
-#why the git doesn't work to work and I can't push to the git
 
+#print the date that I import in my project
 print(digits.data)
 
 
+
+#%%
